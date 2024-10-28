@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&display=swap');
+@font-face {
+    font-family: 'Mungyeong-Gamhong-Apple';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2410-2@1.0/Mungyeong-Gamhong-Apple.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.font-link{
+    font-family: "Gowun Batang", serif;
+}
+
+.font-import{
+    font-family: "Gowun Batang", serif;
+}
+
+.noonnu_font{
+    font-family: 'Mungyeong-Gamhong-Apple', serif;
+}
